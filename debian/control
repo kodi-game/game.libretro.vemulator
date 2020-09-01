@@ -1,0 +1,17 @@
+Source: kodi-game-libretro-vemulator
+Priority: extra
+Maintainer: wsnipex <wsnipex@a1.net>
+Build-Depends: debhelper (>= 9.0.0),
+               cmake,
+               kodi-addon-dev,
+               libretro-vemulator (>= 0.1.0) | vemulator (>= 0.1.0)
+Standards-Version: 3.9.8
+Section: libs
+
+Package: kodi-game-libretro-vemulator
+Section: libs
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}, kodi, kodi-game-libretro
+Enhances: kodi
+Description: VeMUlator core for kodi's retroplayer
+ VeMUlator core for kodi's retroplayer
