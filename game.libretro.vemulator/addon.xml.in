@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <addon id="game.libretro.vemulator"
 		name="VeMUlator"
-		version="0.1.0.2"
+		version="0.1.0.3"
 		provider-name="Mahmoud Jaoune">
 	<requires>
 		<import addon="game.libretro" version="1.0.0"/>
@@ -12,14 +12,15 @@
 		<extensions>vms|bin|dci</extensions>
 		<supports_vfs>false</supports_vfs>
 		<supports_standalone>false</supports_standalone>
+		<requires_opengl>false</requires_opengl>
 	</extension>
 	<extension point="xbmc.addon.metadata">
+		<license>GPL v3</license>
+		<platform>@PLATFORM@</platform>
+		<source>https://github.com/kodi-game/game.libretro.vemulator</source>
 		<summary lang="en_GB">VeMUlator 0.1</summary>
 		<description lang="en_GB">A port of the SEGA Visual Memory Unit emulator VeMUlator for libretro.
 
 Supported files: .vms, .bin, .dci</description>
-		<license>GPL v3</license>
-		<platform>@PLATFORM@</platform>
-		<source>https://github.com/kodi-game/game.libretro.vemulator</source>
 	</extension>
 </addon>
