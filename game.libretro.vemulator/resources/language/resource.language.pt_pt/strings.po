@@ -5,7 +5,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: game.libretro.vemulator\n"
-"Report-Msgid-Bugs-To: alanwww1@xbmc.org\n"
+"Report-Msgid-Bugs-To: translations@kodi.tv\n"
 "POT-Creation-Date: 2020-09-01 20:38i\n"
 "PO-Revision-Date: 2020-09-01 20:38i\n"
 "Last-Translator: Automatically generated\n"
