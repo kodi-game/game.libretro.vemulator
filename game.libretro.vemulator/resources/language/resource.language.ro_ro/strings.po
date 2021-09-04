@@ -17,6 +17,14 @@ msgstr ""
 "Plural-Forms: nplurals=3; plural=n==1 ? 0 : (n==0 || (n%100 > 0 && n%100 < "
 "20)) ? 1 : 2;\n"
 
+msgctxt "Addon Summary"
+msgid "VeMUlator 0.1"
+msgstr ""
+
+msgctxt "Addon Description"
+msgid "A port of the SEGA Visual Memory Unit emulator VeMUlator for libretro.Supported files: .vms, .bin, .dci"
+msgstr ""
+
 msgctxt "#30000"
 msgid "Settings"
 msgstr ""

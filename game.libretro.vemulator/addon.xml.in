@@ -18,9 +18,9 @@
 		<license>GPL v3</license>
 		<platform>@PLATFORM@</platform>
 		<source>https://github.com/kodi-game/game.libretro.vemulator</source>
-		<summary lang="en_GB">VeMUlator 0.1</summary>
-		<description lang="en_GB">A port of the SEGA Visual Memory Unit emulator VeMUlator for libretro.
 
 Supported files: .vms, .bin, .dci</description>
+		<summary lang="en_GB">VeMUlator 0.1</summary>
+		<description lang="en_GB">A port of the SEGA Visual Memory Unit emulator VeMUlator for libretro.Supported files: .vms, .bin, .dci</description>
 	</extension>
 </addon>

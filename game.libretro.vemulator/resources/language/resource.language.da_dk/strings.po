@@ -17,6 +17,14 @@ msgstr ""
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
 "X-Generator: Weblate 4.5.1\n"
 
+msgctxt "Addon Summary"
+msgid "VeMUlator 0.1"
+msgstr ""
+
+msgctxt "Addon Description"
+msgid "A port of the SEGA Visual Memory Unit emulator VeMUlator for libretro.Supported files: .vms, .bin, .dci"
+msgstr ""
+
 msgctxt "#30000"
 msgid "Settings"
 msgstr "Indstillinger"
