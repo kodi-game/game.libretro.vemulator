@@ -22,7 +22,7 @@ msgid "VeMUlator 0.1"
 msgstr ""
 
 msgctxt "Addon Description"
-msgid "A port of the SEGA Visual Memory Unit emulator VeMUlator for libretro.Supported files: .vms, .bin, .dci"
+msgid "A port of the SEGA Visual Memory Unit emulator VeMUlator for libretro."
 msgstr ""
 
 msgctxt "#30000"
