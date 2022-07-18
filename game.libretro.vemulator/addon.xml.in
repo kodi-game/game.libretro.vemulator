@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <addon id="game.libretro.vemulator"
 		name="VeMUlator"
-		version="0.1.0.4"
+		version="0.1.0.5"
 		provider-name="Mahmoud Jaoune">
 	<requires>
 		<import addon="game.libretro" version="1.0.0"/>
