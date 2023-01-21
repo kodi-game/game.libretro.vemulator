@@ -24,6 +24,7 @@
 		<summary lang="en_GB">VeMUlator 0.1</summary>
 		<description lang="da_DK">En port af SEGA Visual Memory Unit-emulatoren VeMUlator for libretro.</description>
 		<description lang="en_GB">A port of the SEGA Visual Memory Unit emulator VeMUlator for libretro.</description>
+		<description lang="es_ES">Una adaptación del emulador de SEGA Visual Memory Unit VeMUlator para libretro.</description>
 		<description lang="it_IT">Un port dell&apos;emulatore SEGA Visual Memory Unit VeMUlator per libretro.</description>
 		<description lang="ko_KR">libretro용 SEGA Visual Memory Unit 에뮬레이터 VeMUlator의 포트.</description>
 		<description lang="zh_CN">libretro 的世嘉可视内存单元（Visual Memory Unit）模拟器 VeMUlator。</description>
