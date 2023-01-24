@@ -13,7 +13,7 @@ GPL v3
 
 ### Icon
 
-![Icon](game.libretro.vemulator/resources/icon.png)
+![VeMUlator icon](game.libretro.vemulator/resources/icon.png)
 
 ### Fanart
 
