@@ -22,6 +22,7 @@
 			<icon>resources/icon.png</icon>
 		</assets>
 		<summary lang="en_GB">VeMUlator</summary>
+		<summary lang="es_ES">VeMUlator</summary>
 		<description lang="da_DK">En port af SEGA Visual Memory Unit-emulatoren VeMUlator for libretro.</description>
 		<description lang="de_DE">Eine Portierung des SEGA-Visual-Memory-Unit-Emulators VeMUlator für libretro.</description>
 		<description lang="en_GB">A port of the SEGA Visual Memory Unit emulator VeMUlator for libretro.</description>
