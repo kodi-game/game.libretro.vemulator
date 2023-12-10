@@ -24,6 +24,7 @@
 		<summary lang="da_DK">VeMUlator</summary>
 		<summary lang="en_GB">VeMUlator</summary>
 		<summary lang="es_ES">VeMUlator</summary>
+		<summary lang="it_IT">VeMUlator</summary>
 		<summary lang="ko_KR">VeMUlator</summary>
 		<summary lang="zh_CN">VeMUlator</summary>
 		<description lang="da_DK">En port af SEGA Visual Memory Unit-emulatoren VeMUlator for libretro.</description>
