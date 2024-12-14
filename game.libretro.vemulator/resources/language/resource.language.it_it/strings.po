@@ -25,10 +25,10 @@ msgctxt "Addon Description"
 msgid "A port of the SEGA Visual Memory Unit emulator VeMUlator for libretro."
 msgstr "Un port dell'emulatore SEGA Visual Memory Unit VeMUlator per libretro."
 
-msgctxt "#30000"
-msgid "Settings"
-msgstr "Impostazioni"
-
 msgctxt "#30001"
 msgid "Enable flash write (.bin, requires restart)"
 msgstr "Abilita la scrittura flash (.bin, richiede il riavvio)"
+
+#~ msgctxt "#30000"
+#~ msgid "Settings"
+#~ msgstr "Impostazioni"
