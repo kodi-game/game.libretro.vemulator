@@ -24,6 +24,7 @@
 		<summary lang="da_DK">VeMUlator</summary>
 		<summary lang="en_GB">VeMUlator</summary>
 		<summary lang="es_ES">VeMUlator</summary>
+		<summary lang="ga">VeMUlator</summary>
 		<summary lang="it_IT">VeMUlator</summary>
 		<summary lang="ko_KR">VeMUlator</summary>
 		<summary lang="ru_RU">VeMUlator</summary>
@@ -33,6 +34,7 @@
 		<description lang="de_DE">Eine Portierung des SEGA-Visual-Memory-Unit-Emulators VeMUlator für libretro.</description>
 		<description lang="en_GB">A port of the SEGA Visual Memory Unit emulator VeMUlator for libretro.</description>
 		<description lang="es_ES">Una adaptación del emulador de SEGA Visual Memory Unit VeMUlator para libretro.</description>
+		<description lang="ga">Port den aithriseoir Aonad Cuimhne Amhairc SEGA VeMUlator do libretro.</description>
 		<description lang="it_IT">Un port dell&apos;emulatore SEGA Visual Memory Unit VeMUlator per libretro.</description>
 		<description lang="ko_KR">libretro용 SEGA Visual Memory Unit 에뮬레이터 VeMUlator의 포트.</description>
 		<description lang="ru_RU">Порт эмулятора SEGA Visual Memory Unit VeMUlator для libretro.</description>
