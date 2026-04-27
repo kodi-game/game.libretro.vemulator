@@ -1,1 +1,1 @@
-vemulator https://github.com/libretro/vemulator-libretro/archive/45d7556667549bb1c1b84d27fbffb7d2a633f5d3.tar.gz
+vemulator https://github.com/libretro/vemulator-libretro/archive/7fade95506201aed83316cc3f2efe3d7cecf75a7.tar.gz
