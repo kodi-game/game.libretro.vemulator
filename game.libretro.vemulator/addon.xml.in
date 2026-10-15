@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <addon id="game.libretro.vemulator"
 		name="VeMUlator"
-		version="0.1.0.28"
+		version="0.1.0.29"
 		provider-name="Mahmoud Jaoune">
 	<requires>
 		<import addon="game.libretro" version="1.0.0"/>
@@ -13,7 +13,7 @@
 		<supports_vfs>false</supports_vfs>
 		<supports_standalone>false</supports_standalone>
 		<supports_disc_control>false</supports_disc_control>
-		<requires_opengl>false</requires_opengl>
+		<libretro_core>vemulator_libretro</libretro_core>
 	</extension>
 	<extension point="xbmc.addon.metadata">
 		<license>GPL v3</license>
